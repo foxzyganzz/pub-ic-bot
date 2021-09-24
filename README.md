@@ -1,13 +1,21 @@
-##CARA INSTALL MELALUI GIT
+## `ADD BUILDPACK`
+
+```
+> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+```
+
+
+
+## `CARA INSTALL MELALUI GIT`
 
 > pkg install git
-> gitclone https://github.com/Fernazer
-> cd Fernazer
+> gitclone https://github.com/foxzyganzz
+> cd pub-ic-bot
 > bash install.sh
 > npm start
 > scan qr
 
-##CARA INSTALL
+## `CARA INSTALL`
 
 > termux-setup-storage [Y]
 > cd /sdcard
